@@ -26,6 +26,6 @@ A full-stack web application for managing contacts, built on the MERN technology
    - yarn install
    - yarn run dev
 4. Start the frontend:
-   - cd ../client
+   - cd client
    - yarn install
    - yarn start

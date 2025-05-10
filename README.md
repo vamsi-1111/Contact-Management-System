@@ -21,12 +21,11 @@ A full-stack web application for managing contacts, built on the MERN technology
 ## Getting Started
 
 1. Clone the repository:
-   cd contact-management-system
 3. Start the backend:
-   cd server
-   yarn install
-   yarn run dev
+   - cd server
+   - yarn install
+   - yarn run dev
 4. Start the frontend:
-   cd ../client
-   yarn install
-   yarn start
+   - cd ../client
+   - yarn install
+   - yarn start

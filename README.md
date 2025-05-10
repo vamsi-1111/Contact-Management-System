@@ -1,7 +1,7 @@
 # MERN Contact Management System
 
 ## Overview
-A secure and efficient full-stack web application for managing personal and professional contacts, built on the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. It enables users to register, log in, and perform full CRUD operations on their contact list, all within a responsive and user-friendly interface.
+A full-stack web application for managing personal and professional contacts, built on the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. It enables users to register, log in, and perform full CRUD operations on their contact list, all within a responsive and user-friendly interface.
 
 ## Features
 - **Secure User Authentication**: Users can create accounts, sign in, and securely sign out using JWT-based authentication.

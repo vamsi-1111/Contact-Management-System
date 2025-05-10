@@ -21,7 +21,6 @@ A full-stack web application for managing contacts, built on the MERN technology
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/contact-management-system.git
    cd contact-management-system
 3. Start the backend:
    cd server
